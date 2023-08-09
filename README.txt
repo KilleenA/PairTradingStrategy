@@ -1,6 +1,6 @@
 Module to back test pairs trading strategy and perform index regression analysis.
 
-N.B. As well as the modules requirements.txt, the user must also have Java installed.
+N.B. As well as the modules listed in requirements.txt, the user must also have Java installed.
 
 Executive Summary
 
